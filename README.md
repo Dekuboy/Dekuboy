@@ -8,10 +8,10 @@
   + SkyBox
   + Culling Quadrants
   + Light Culling
-      + HDR
-      + PBR
-      + Parallel Processing where necessary
+  + HDR
+  + PBR
+  + Parallel Processing where necessary
 - 🕹️ Game Plan
-      + SlashStep
-      + DoomRoom
-      + StunRun
+  + SlashStep
+  + DoomRoom
+  + StunRun
