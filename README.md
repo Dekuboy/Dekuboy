@@ -3,8 +3,9 @@
 - 🌱 I’m currently working on my Engine, specifically the following:
       + Compile through Emscripten so the engine can work on a web browser. 
 - ⏳ I'm planning to Implement in the future:
-      + SkyBox
+      + Comment/Reconfigure Animation Code
       + Add CollisionManager class
+      + SkyBox
       + Culling Quadrants
       + Light Culling
       + HDR
@@ -13,4 +14,4 @@
 - 🕹️ Game Plan
       + SlashStep
       + DoomRoom
-      + ⚡Run
+      + StunRun
